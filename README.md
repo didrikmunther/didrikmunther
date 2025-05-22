@@ -8,8 +8,8 @@ My name is Didrik Munther and I am currently doing the last year of my Computer 
  ---
 
 ### 😄 About Me:
-  - 🌱 I'm currently in my last year of my masters in Computer Science at [KTH Royal Institute of Technology](https://www.kth.se/).
-  - 💻 I'm writing my master thesis "<i>Automatic LSP generation for DSLs</i>" at the [Miking](https://miking.org/) research group.
+  - 🌱 Newly graduated Computer Science student @ [KTH Royal Institute of Technology](https://www.kth.se/).
+  - 💻 My Master's thesis is about "<i>Automatic LSP generation for DSLs</i>" in cooperation with the [Miking](https://miking.org/) research group.
   - 🤖 I'm currently writing my own programming language [Rost](https://github.com/didrikmunther/rost).
   - ⚡ In my free time, I enjoy automating my home with programming, road biking, and bouldering.
   - 👯 I am experienced with working on projects in large teams.
