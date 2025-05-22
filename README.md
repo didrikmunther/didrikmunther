@@ -1,5 +1,5 @@
 ### 👋 Hi there, welcome to my GitHub portfolio 👋
-My name is Didrik Munther and I am currently doing the last year of my Computer Science Master's at the school of EECS at KTH Royal Institute of Technology in Stockholm. Check out my experience and education from my LinkedIn:
+My name is Didrik Munther and I recently graduated my Computer Science Master's at the school of EECS at KTH Royal Institute of Technology in Stockholm. Check out my experience and education from my LinkedIn:
 <div id="badges">
   <a href="https://www.linkedin.com/in/didrikmunther/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
