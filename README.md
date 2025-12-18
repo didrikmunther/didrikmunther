@@ -8,7 +8,7 @@ My name is Didrik Munther and I recently graduated my Computer Science Master's 
  ---
 
 ### 😄 About Me:
-  - 🌱 Newly graduated Computer Science student @ [KTH Royal Institute of Technology](https://www.kth.se/).
+  - 🌱 Graduated Computer Science student @ [KTH Royal Institute of Technology](https://www.kth.se/).
   - 💻 My Master's thesis is about "<i>Automatic LSP generation for DSLs</i>" in cooperation with the [Miking](https://miking.org/) research group.
   - 🤖 I'm currently writing my own programming language [Rost](https://github.com/didrikmunther/rost).
   - ⚡ In my free time, I enjoy automating my home with programming, road biking, and bouldering.
