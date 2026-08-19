@@ -27,6 +27,6 @@ My name is Didrik Munther and I recently graduated my Computer Science Master's 
    
   ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didrikmunther&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=didrikmunther&layout=compact&theme=onedark)](https://github.com/stats-organization/github-stats-extended)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=didrikmunther&theme=radical&border_radius=3)](https://git.io/streak-stats)
 </div>
